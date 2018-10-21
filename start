@@ -1,5 +1,4 @@
 #!/bin/bash
-# Ask the user for their name
 echo WELCOME TO KODA
 echo What du you want to install
 read varinstall
