@@ -1,0 +1,7 @@
+#!/bin/bash
+echo WELCOME TO KODA
+echo What du you want to install
+read varinstall
+echo Ok i will install $varinstall for you
+echo Pinging KODA\'s servers
+echo Starting to install
